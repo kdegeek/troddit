@@ -1,10 +1,8 @@
 # Troddit
 
-### _This project is archived and no longer maintained._
 
 ### _An alternative front end web client for Reddit_
-
-Live at [troddit.com](https://www.troddit.com)
+### _Forked- Attept to resuscitate_
 
 
 

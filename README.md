@@ -97,7 +97,7 @@ build the image.
 Clone and navigate to the repository 
 
 ```sh
-git clone https://github.com/burhan-syed/troddit
+git clone https://github.com/kdegeek/troddit
 cd troddit
 ```
 
@@ -119,8 +119,3 @@ This will create the troddit image and pull in the necessary dependencies. To ru
 docker run -p 3000:3000 troddit
 ```
 
-### Support
-
-If you like the project feel free to share and leave a star. If you're feeling generous you can support me on Ko-fi.
-
-<span align="center">[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K47IYH1)</span>
